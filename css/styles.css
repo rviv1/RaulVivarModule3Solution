@@ -1,0 +1,40 @@
+.navbar-brand h1 { 
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    width: 100%;
+  }
+  #nav-list a:hover {
+    background: #d64949;
+  }
+  #nav-list a {
+    background-color: #a1a5e0;
+    text-align: center;
+    font-weight: bold;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+  #nav-list a {
+    text-align: center;
+  }
+  #nav-list {
+    margin-top: 10px;
+  }
+  .col-md-12, .col-xs-12{
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: darkgrey;
+    height: 1000px;
+  }
+  .row {
+    width: 100%;
+  }
+  .container{
+      padding-right: 5px;
+  }
